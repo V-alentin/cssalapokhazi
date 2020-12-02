@@ -1,0 +1,21 @@
+#p1 
+{
+	font-size: 24px;
+}
+
+#p2
+{
+	text-decoration: underline;
+}
+
+#p3
+{
+	text-decoration: line-through;
+	color: orange;
+}
+
+#p4
+{
+	background-color: blue ;
+	color: white;
+}
